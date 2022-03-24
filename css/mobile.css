@@ -36,8 +36,7 @@
     display: inline;
   }
   .hr1 {
-    position: absolute;
-    top: 20%;
+    display: none;
   }
   #services-part .services .service1,
   #services-part .services .service2,
