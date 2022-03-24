@@ -484,7 +484,7 @@ hr {
   margin-bottom: 2%;
 }
 #bottom .row4 .text-part3 .path img {
-  display: inline;
+  display: inline-flex;
 }
 
 #bottom .row4 .right-mid-left-part {
