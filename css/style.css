@@ -487,6 +487,12 @@ hr {
 }
 #bottom .row4 .text-part3 .path img.imga{
   vertical-align: baseline;
+  display: inline-block;
+}
+
+#bottom .row4 .text-part3 .path img.imgb{
+  vertical-align: baseline;
+  display: inline-block;
 }
 
 #bottom .row4 .right-mid-left-part {
