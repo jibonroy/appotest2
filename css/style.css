@@ -475,9 +475,9 @@ hr {
   text-align: right;
   font-size: 16pt;
 }
-#bottom .row4 .text-part3 .r8 {
+#bottom .row4 .text-part3 p.r8 {
   text-align: right;
-  padding-right: 10%;
+  display: block;
 }
 #bottom .row4 .text-part3 .path {
   display: block;
